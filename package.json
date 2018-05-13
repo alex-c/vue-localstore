@@ -1,0 +1,28 @@
+{
+  "name": "vue-localstore",
+  "version": "0.1.0",
+  "description": "Vue plugin for localForage.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alex-c/vue-localstore.git"
+  },
+  "keywords": [
+    "localforage",
+    "store",
+    "local store",
+    "persistence",
+    "vue",
+    "vue plugin",
+    "vue store"
+  ],
+  "author": "Alexandre Charoy <alexandre.charoy@gmail.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/alex-c/vue-localstore/issues"
+  },
+  "homepage": "https://github.com/alex-c/vue-localstore#readme"
+}
