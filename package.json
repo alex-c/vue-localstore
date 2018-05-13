@@ -17,12 +17,16 @@
     "persistence",
     "vue",
     "vue plugin",
-    "vue store"
+    "vue store",
+    "vue local store"
   ],
   "author": "Alexandre Charoy <alexandre.charoy@gmail.com>",
   "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/alex-c/vue-localstore/issues"
   },
-  "homepage": "https://github.com/alex-c/vue-localstore#readme"
+  "homepage": "https://github.com/alex-c/vue-localstore#readme",
+  "dependencies": {
+    "localforage": "^1.7.1"
+  }
 }
